@@ -1,3 +1,3 @@
 # Sample
 
-This is the first sample in Github
+This is Branch1 of the first sample in Github
